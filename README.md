@@ -7,6 +7,8 @@ I thought it would be fun to write a program to generate more puzzles, and check
 
 Apparently the Wayside books are still in print - consider buying one for the next generation of puzzle solvers!
 
+Also, try out a Wayside browser game by Luca Masters: https://github.com/lkbm/sideways_math
+
 ## How the puzzles work
 The first puzzles in *Sideways Arithmetic* take the form of word-based addition: 
 
